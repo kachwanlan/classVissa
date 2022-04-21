@@ -1,0 +1,101 @@
+.wow {
+  width: 100px;
+}
+/* Body */
+body{
+  background-color: gray;
+}
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  text-align: center;
+  background: white;
+  background-image: url("images/barbeku-mangal.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.header h1 {
+  color: blue;
+  font-size: 40px;
+}
+.header p {
+  color: whitesmoke;
+}
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.content {
+  text-align: center;
+  background: white;
+  background-image: url("images/insidegrillbar.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  
+}
+
+.footer {
+  background-color: black;
+  text-align: center;
+  height: 150px;
+}
+.footer h6{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+  
+}
+
+/* */Assignment 4 css
+h1 {
+  background-color: grey;
+  text-align: center;
+  margin-top: 0;
+  margin-left: 25px;
+  margin-right: 25px;
+  
+  
+}
+
+h2 {
+  text-align: center;
+  color: orange;
+  
+}
+
+.marketing {
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  font-family: cursive;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
